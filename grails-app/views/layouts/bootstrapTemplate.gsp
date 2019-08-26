@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title><g:layoutTitle default="Grails ERP"/></title>
+    <title><g:layoutTitle default="Proyecto Final"/></title>
     <link href="https://fonts.googleapis.com/css?family=Cabin|Josefin+Sans|Merriweather+Sans" rel="stylesheet">
     <asset:stylesheet src="application.css"/>
     <asset:javascript src="application.js" />
@@ -34,7 +34,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <g:link uri="/" class="navbar-brand">Grails ERP</g:link>
+                    <g:link uri="/" class="navbar-brand">Proyecto Final</g:link>
                 </div>
 
                 <!-- Top Menu Items -->
